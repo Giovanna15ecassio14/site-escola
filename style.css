@@ -1,16 +1,6 @@
-body{background-color: rgb(11, 12, 12);
-    color: aliceblue;}
+body{background-color: rgb(101, 226, 153);}
 
-table{
-    height: 100px;
-    width: 1000px;
+class{
+    width: 100px;
 }
-a{
-    color: aliceblue;
-}
-.quintal{
-    width: 450px;
-}
-.drink{ 
-    width: 400px;
-}
+
